@@ -1,0 +1,11 @@
+/Users/user/coding dojo/csharpNew/oop/human/bin/Debug/netcoreapp2.2/human.deps.json
+/Users/user/coding dojo/csharpNew/oop/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.json
+/Users/user/coding dojo/csharpNew/oop/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.dev.json
+/Users/user/coding dojo/csharpNew/oop/human/bin/Debug/netcoreapp2.2/human.dll
+/Users/user/coding dojo/csharpNew/oop/human/bin/Debug/netcoreapp2.2/human.pdb
+/Users/user/coding dojo/csharpNew/oop/human/obj/Debug/netcoreapp2.2/human.csprojAssemblyReference.cache
+/Users/user/coding dojo/csharpNew/oop/human/obj/Debug/netcoreapp2.2/human.csproj.CoreCompileInputs.cache
+/Users/user/coding dojo/csharpNew/oop/human/obj/Debug/netcoreapp2.2/human.AssemblyInfoInputs.cache
+/Users/user/coding dojo/csharpNew/oop/human/obj/Debug/netcoreapp2.2/human.AssemblyInfo.cs
+/Users/user/coding dojo/csharpNew/oop/human/obj/Debug/netcoreapp2.2/human.dll
+/Users/user/coding dojo/csharpNew/oop/human/obj/Debug/netcoreapp2.2/human.pdb
